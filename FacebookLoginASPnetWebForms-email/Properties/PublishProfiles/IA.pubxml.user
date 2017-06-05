@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+此檔案是由您 Web 專案的發行/封裝處理程序所使用。您可以編輯此 MSBuild 檔案，
+以自訂此處理程序的行為。若要深入了解，請造訪 http://go.microsoft.com/fwlink/?LinkID=208121。
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\inetpub\wwwroot</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="Account/user.aspx">
+      <publishTime>08/12/2016 16:51:45</publishTime>
+    </File>
+    <File Include="bin/App_global.asax.compiled">
+      <publishTime>08/12/2016 17:43:07</publishTime>
+    </File>
+    <File Include="bin/App_global.asax.dll">
+      <publishTime>08/12/2016 17:43:07</publishTime>
+    </File>
+    <File Include="bin/BouncyCastle.Crypto.dll">
+      <publishTime>04/30/2011 09:14:36</publishTime>
+    </File>
+    <File Include="bin/BouncyCastle.Crypto.pdb">
+      <publishTime>04/30/2011 09:14:36</publishTime>
+    </File>
+    <File Include="bin/FacebookLoginASPnetWebForms.dll">
+      <publishTime>08/12/2016 17:41:38</publishTime>
+    </File>
+    <File Include="bin/FacebookLoginASPnetWebForms.pdb">
+      <publishTime>08/12/2016 17:41:38</publishTime>
+    </File>
+    <File Include="bin/Google.Apis.Analytics.v3.dll">
+      <publishTime>09/08/2016 08:13:54</publishTime>
+    </File>
+    <File Include="bin/Google.Apis.Analytics.v3.pdb">
+      <publishTime>09/08/2016 08:13:54</publishTime>
+    </File>
+    <File Include="bin/Google.Apis.Auth.dll">
+      <publishTime>04/08/2016 15:12:50</publishTime>
+    </File>
+    <File Include="bin/Google.Apis.Auth.pdb">
+      <publishTime>04/08/2016 15:12:50</publishTime>
+    </File>
+    <File Include="bin/Google.Apis.Auth.PlatformServices.dll">
+      <publishTime>04/08/2016 15:12:50</publishTime>
+    </File>
+    <File Include="bin/Google.Apis.Auth.PlatformServices.pdb">
+      <publishTime>04/08/2016 15:12:50</publishTime>
+    </File>
+    <File Include="bin/Google.Apis.Core.dll">
+      <publishTime>04/08/2016 15:12:50</publishTime>
+    </File>
+    <File Include="bin/Google.Apis.Core.pdb">
+      <publishTime>04/08/2016 15:12:50</publishTime>
+    </File>
+    <File Include="bin/Google.Apis.dll">
+      <publishTime>04/08/2016 15:12:50</publishTime>
+    </File>
+    <File Include="bin/Google.Apis.pdb">
+      <publishTime>04/08/2016 15:12:50</publishTime>
+    </File>
+    <File Include="bin/Google.Apis.PlatformServices.dll">
+      <publishTime>04/08/2016 15:12:50</publishTime>
+    </File>
+    <File Include="bin/Google.Apis.PlatformServices.pdb">
+      <publishTime>04/08/2016 15:12:50</publishTime>
+    </File>
+    <File Include="bin/Google.GData.Analytics.dll">
+      <publishTime>06/25/2013 11:33:10</publishTime>
+    </File>
+    <File Include="bin/Google.GData.Client.dll">
+      <publishTime>06/25/2013 11:24:40</publishTime>
+    </File>
+    <File Include="bin/Google.GData.Extensions.dll">
+      <publishTime>06/25/2013 11:27:08</publishTime>
+    </File>
+    <File Include="bin/log4net.dll">
+      <publishTime>11/23/2013 10:04:16</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Threading.Tasks.dll">
+      <publishTime>03/14/2014 16:02:04</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Threading.Tasks.Extensions.Desktop.dll">
+      <publishTime>03/14/2014 16:02:04</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Threading.Tasks.Extensions.dll">
+      <publishTime>03/14/2014 16:02:04</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Helpers.dll">
+      <publishTime>01/28/2015 04:03:58</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>07/25/2012 11:48:56</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>06/13/2016 23:06:14</publishTime>
+    </File>
+    <File Include="bin/System.Web.Helpers.dll">
+      <publishTime>01/28/2015 04:04:30</publishTime>
+    </File>
+    <File Include="bin/System.Web.Razor.dll">
+      <publishTime>01/28/2015 04:02:32</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Deployment.dll">
+      <publishTime>01/28/2015 04:04:30</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.dll">
+      <publishTime>01/28/2015 04:04:30</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Razor.dll">
+      <publishTime>01/28/2015 04:04:30</publishTime>
+    </File>
+    <File Include="bin/WebMatrix.Data.dll">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bin/WebMatrix.WebData.dll">
+      <publishTime>01/28/2015 04:04:20</publishTime>
+    </File>
+    <File Include="bin/Zlib.Portable.dll">
+      <publishTime>06/22/2015 09:00:48</publishTime>
+    </File>
+    <File Include="Default.aspx">
+      <publishTime>08/12/2016 12:20:10</publishTime>
+    </File>
+    <File Include="IAtest-28a2e52d2887.p12">
+      <publishTime>08/12/2016 17:41:13</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>08/12/2016 14:53:30</publishTime>
+    </File>
+    <File Include="PrecompiledApp.config">
+      <publishTime>08/12/2016 17:43:04</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>08/12/2016 17:37:07</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
